@@ -307,38 +307,12 @@
 				)
 			)
 		)
-		(property "PROD_ID" ""
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6cd88065-e827-4f8c-bddd-5a7a8d1e0816")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Mfr." "JST Sales America Inc."
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f6af6c96-aa09-4db8-b4b9-cd65bf331334")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mfr. #" "SM04B-SRSS-TB"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2dfb9abf-bfc9-428d-a9b1-759ba9bbac68")
 			(effects
 				(font
 					(size 1 1)
@@ -372,90 +346,12 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" ""
+		(property "Mfr. Part #" "SM04B-SRSS-TB"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7fb1abc1-58f2-488b-907c-fd6af0fc62f4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fb19e916-7db3-4e82-8d97-4138c342a74a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "87a6b00a-5a0c-4cc7-97a2-381de7704c7e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a6cdf63a-517f-497d-92cc-123907027a58")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MF" ""
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "641b8369-b4f3-4a1c-b4ee-6aa9ab7aee0b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MP" ""
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "920987e1-c044-49cc-b6b8-912d830faef8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "REFERENCE" ""
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9ac4670c-d5bb-4f3e-8b0e-33893658bb68")
 			(effects
 				(font
 					(size 1 1)
@@ -1663,7 +1559,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300311121.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1689,7 +1585,7 @@
 				)
 			)
 		)
-		(property "Price" "$0.00"
+		(property "Price" "$0.12"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1702,7 +1598,7 @@
 				)
 			)
 		)
-		(property "Order Link" "https://www.amazon.com/Straight-Breakaway-Connector-Breadboard-Electronic/dp/B09MYBRW3F?crid=3JR0BZNCU8K8J&dib=eyJ2IjoiMSJ9.3vFjmsH10W3-0I49M7i2SLer6N2w76n3suAL41lNyWbCktqeX2xUwJKGOw1Unq-mAp24IQL2WQ-Ev7Umi65YUYWwukLOeoqjLE4MCKmsExRo7y7O8beFGF-NY-mrllV9VKK4tI6JlMWT6oqZ_rCOCrXUoStfaWefHyDqNKRyilyns3IozKEM_18D3NupDy3bF_TYgvEPFbIX5EQWrNKwcTDbRlgYyJ1qEApCaPAYdds.HCWtlvjyp8dekPH4j2M5xTF1mJrDF1h5rp-JmzUzVHE&dib_tag=se&keywords=male%2Bpin%2Bheaders&qid=1735364673&sprefix=male%2Bpin%2Bheaders%2Caps%2C130&sr=8-8&th=1"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61300311121/4846825"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1715,7 +1611,7 @@
 				)
 			)
 		)
-		(property "Mfr." ""
+		(property "Mfr." "Würth Elektronik"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1728,7 +1624,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" ""
+		(property "Mfr. Part #" "61300311121"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5839,7 +5735,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -5918,116 +5814,12 @@
 				)
 			)
 		)
-		(property "Mfr. #" "C0805C474J9RACTU"
+		(property "Mfr. Part #" "C0805C474J9RACTU"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "978aa11e-2bed-4a46-a1b7-0db7170f1619")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3d9a879a-33e5-472d-8fbe-e5ad3161fee2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fb22e819-7a4a-4035-a775-9b6731adf8c7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6a4e392f-3ba1-4500-a31e-13747d3a4429")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4c1f7d30-3bd5-4980-bfa2-405a20be661e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9d49e404-2295-4da3-bad2-85eac74d944d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MF" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fb698fbc-63b8-4e62-a76d-0e4bd205202d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MP" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5190da9e-3842-40fc-ad23-8c7119f98d8a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "REFERENCE" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "30fd6a6d-2e20-41c7-a9dd-bfa5a5606669")
+			(uuid "737deb34-67c4-469e-a947-ab128dd80e3c")
 			(effects
 				(font
 					(size 1 1)
@@ -20215,25 +20007,12 @@
 				)
 			)
 		)
-		(property "Mfr. #" "C0805C103K5TACAUTO"
+		(property "Mfr. Part #" "C0805C103K5TACAUTO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "28d7712f-5a0f-4ca6-b9da-4dfc434780b1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Price " ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cfff3090-0fa8-436b-9ae0-c9658aee283c")
 			(effects
 				(font
 					(size 1 1)
@@ -20259,7 +20038,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7fe48983-666c-4a40-ba9a-df4f10f1fa74")
+			(uuid "8928e9e9-c7bc-41ea-af87-cf7fa8476e73")
 			(effects
 				(font
 					(size 1 1)
@@ -20410,7 +20189,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300311121.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20436,7 +20215,7 @@
 				)
 			)
 		)
-		(property "Price" "$0.00"
+		(property "Price" "$0.12"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20449,7 +20228,7 @@
 				)
 			)
 		)
-		(property "Order Link" "https://www.amazon.com/Straight-Breakaway-Connector-Breadboard-Electronic/dp/B09MYBRW3F?crid=3JR0BZNCU8K8J&dib=eyJ2IjoiMSJ9.3vFjmsH10W3-0I49M7i2SLer6N2w76n3suAL41lNyWbCktqeX2xUwJKGOw1Unq-mAp24IQL2WQ-Ev7Umi65YUYWwukLOeoqjLE4MCKmsExRo7y7O8beFGF-NY-mrllV9VKK4tI6JlMWT6oqZ_rCOCrXUoStfaWefHyDqNKRyilyns3IozKEM_18D3NupDy3bF_TYgvEPFbIX5EQWrNKwcTDbRlgYyJ1qEApCaPAYdds.HCWtlvjyp8dekPH4j2M5xTF1mJrDF1h5rp-JmzUzVHE&dib_tag=se&keywords=male%2Bpin%2Bheaders&qid=1735364673&sprefix=male%2Bpin%2Bheaders%2Caps%2C130&sr=8-8&th=1"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61300311121/4846825"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20462,7 +20241,7 @@
 				)
 			)
 		)
-		(property "Mfr. Part #" ""
+		(property "Mfr. Part #" "61300311121"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20475,7 +20254,7 @@
 				)
 			)
 		)
-		(property "Mfr." ""
+		(property "Mfr." "Würth Elektronik"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21136,7 +20915,7 @@
 				)
 			)
 		)
-		(property "Mfr. #" "GSD2004WS-HE3-08"
+		(property "Mfr. Part #" "GSD2004WS-HE3-08"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")

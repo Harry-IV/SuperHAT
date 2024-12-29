@@ -18363,7 +18363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "SM04B-SRSS-TB"
+		(property "Mfr. Part #" "SM04B-SRSS-TB"
 			(at 254 63.5 0)
 			(effects
 				(font
@@ -18382,78 +18382,6 @@
 			)
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB/926710"
-			(at 254 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 254 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 254 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 254 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 254 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 254 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 254 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 254 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
 			(at 254 53.34 0)
 			(effects
 				(font
@@ -24658,7 +24586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "C0805C103K5TACAUTO"
+		(property "Mfr. Part #" "C0805C103K5TACAUTO"
 			(at 168.91 135.89 90)
 			(effects
 				(font
@@ -25566,7 +25494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "C0805C474J9RACTU"
+		(property "Mfr. Part #" "C0805C474J9RACTU"
 			(at 194.31 129.54 90)
 			(effects
 				(font
@@ -26345,7 +26273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "GSD2004WS-HE3-08"
+		(property "Mfr. Part #" "GSD2004WS-HE3-08"
 			(at 106.68 99.06 0)
 			(effects
 				(font
@@ -27158,7 +27086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300311121.pdf"
 			(at 238.76 133.35 0)
 			(effects
 				(font
@@ -27176,7 +27104,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." ""
+		(property "Mfr." "Würth Elektronik"
 			(at 238.76 124.46 0)
 			(effects
 				(font
@@ -27185,7 +27113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part #" ""
+		(property "Mfr. Part #" "61300311121"
 			(at 238.76 124.46 0)
 			(effects
 				(font
@@ -27194,7 +27122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "$0.00"
+		(property "Price" "$0.12"
 			(at 238.76 124.46 0)
 			(effects
 				(font
@@ -27203,7 +27131,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order Link" "https://www.amazon.com/Straight-Breakaway-Connector-Breadboard-Electronic/dp/B09MYBRW3F?crid=3JR0BZNCU8K8J&dib=eyJ2IjoiMSJ9.3vFjmsH10W3-0I49M7i2SLer6N2w76n3suAL41lNyWbCktqeX2xUwJKGOw1Unq-mAp24IQL2WQ-Ev7Umi65YUYWwukLOeoqjLE4MCKmsExRo7y7O8beFGF-NY-mrllV9VKK4tI6JlMWT6oqZ_rCOCrXUoStfaWefHyDqNKRyilyns3IozKEM_18D3NupDy3bF_TYgvEPFbIX5EQWrNKwcTDbRlgYyJ1qEApCaPAYdds.HCWtlvjyp8dekPH4j2M5xTF1mJrDF1h5rp-JmzUzVHE&dib_tag=se&keywords=male%2Bpin%2Bheaders&qid=1735364673&sprefix=male%2Bpin%2Bheaders%2Caps%2C130&sr=8-8&th=1"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61300311121/4846825"
 			(at 238.76 124.46 0)
 			(effects
 				(font
@@ -28415,7 +28343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300311121.pdf"
 			(at 238.76 121.92 0)
 			(effects
 				(font
@@ -28433,7 +28361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." ""
+		(property "Mfr." "Würth Elektronik"
 			(at 238.76 113.03 0)
 			(effects
 				(font
@@ -28442,7 +28370,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part #" ""
+		(property "Mfr. Part #" "61300311121"
 			(at 238.76 113.03 0)
 			(effects
 				(font
@@ -28451,7 +28379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "$0.00"
+		(property "Price" "$0.12"
 			(at 238.76 113.03 0)
 			(effects
 				(font
@@ -28460,7 +28388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order Link" "https://www.amazon.com/Straight-Breakaway-Connector-Breadboard-Electronic/dp/B09MYBRW3F?crid=3JR0BZNCU8K8J&dib=eyJ2IjoiMSJ9.3vFjmsH10W3-0I49M7i2SLer6N2w76n3suAL41lNyWbCktqeX2xUwJKGOw1Unq-mAp24IQL2WQ-Ev7Umi65YUYWwukLOeoqjLE4MCKmsExRo7y7O8beFGF-NY-mrllV9VKK4tI6JlMWT6oqZ_rCOCrXUoStfaWefHyDqNKRyilyns3IozKEM_18D3NupDy3bF_TYgvEPFbIX5EQWrNKwcTDbRlgYyJ1qEApCaPAYdds.HCWtlvjyp8dekPH4j2M5xTF1mJrDF1h5rp-JmzUzVHE&dib_tag=se&keywords=male%2Bpin%2Bheaders&qid=1735364673&sprefix=male%2Bpin%2Bheaders%2Caps%2C130&sr=8-8&th=1"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61300311121/4846825"
 			(at 238.76 113.03 0)
 			(effects
 				(font
