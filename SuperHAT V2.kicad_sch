@@ -16981,7 +16981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "2187"
+		(property "Mfr. Part #" "2187"
 			(at 66.04 50.8 0)
 			(effects
 				(font
@@ -17000,78 +17000,6 @@
 			)
 		)
 		(property "Order Link" "https://www.adafruit.com/product/2187"
-			(at 66.04 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 66.04 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 66.04 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 66.04 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 66.04 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 66.04 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 66.04 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 66.04 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
 			(at 66.04 50.8 0)
 			(effects
 				(font
@@ -17519,7 +17447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "DRV8825PWPR"
+		(property "Mfr. Part #" "DRV8825PWPR"
 			(at 151.13 91.44 0)
 			(effects
 				(font
@@ -19116,7 +19044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "SG73S2ATTD3002F"
+		(property "Mfr. Part #" "SG73S2ATTD3002F"
 			(at 153.67 77.47 90)
 			(effects
 				(font
@@ -19136,78 +19064,6 @@
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/SG73S2ATTD3002F/10292021"
 			(at 153.67 77.47 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 153.67 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 153.67 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 153.67 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 153.67 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 153.67 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 153.67 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 153.67 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
-			(at 153.67 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20308,7 +20164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "CMP0805AFX-3300ELF"
+		(property "Mfr. Part #" "CMP0805AFX-3300ELF"
 			(at 198.12 144.78 0)
 			(effects
 				(font
@@ -20327,78 +20183,6 @@
 			)
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/bourns-inc/CMP0805AFX-3300ELF/12333628"
-			(at 198.12 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 198.12 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 198.12 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 198.12 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 198.12 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 198.12 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 198.12 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 198.12 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
 			(at 198.12 144.78 0)
 			(effects
 				(font
@@ -21121,7 +20905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "SM02B-PASS-TBT"
+		(property "Mfr. Part #" "SM02B-PASS-TBT"
 			(at 163.83 66.04 0)
 			(effects
 				(font
@@ -21140,78 +20924,6 @@
 			)
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM02B-PASS-TBT/1788574"
-			(at 163.83 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 163.83 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 163.83 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 163.83 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 163.83 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 163.83 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 163.83 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 163.83 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
 			(at 163.83 66.04 0)
 			(effects
 				(font
@@ -22320,7 +22032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "WSLP0805R0400DEA"
+		(property "Mfr. Part #" "WSLP0805R0400DEA"
 			(at 105.41 26.67 0)
 			(effects
 				(font
@@ -22339,78 +22051,6 @@
 			)
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/vishay-dale/WSLP0805R0400DEA/9755281?s=N4IgTCBcDaIOoGUAyAFADADjQVgEpoBY00ARAUQEEQBdAXyA"
-			(at 105.41 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 105.41 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 105.41 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 105.41 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 105.41 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 105.41 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 105.41 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 105.41 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
 			(at 105.41 26.67 0)
 			(effects
 				(font
@@ -22633,7 +22273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "TC33X-1-103ETC33X-1-103E"
+		(property "Mfr. Part #" "TC33X-1-103ETC33X-1-103E"
 			(at 149.86 124.46 0)
 			(effects
 				(font
@@ -22652,78 +22292,6 @@
 			)
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/bourns-inc/TC33X-1-103E/2566867?s=N4IgTCBcDaIEIHsCuAnAdgZwAQEk0GMA6LAFQGEBmCgDQFoBGBgBgoFEQBdAXyA"
-			(at 149.86 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 149.86 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 149.86 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 149.86 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 149.86 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 149.86 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 149.86 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 149.86 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
 			(at 149.86 124.46 0)
 			(effects
 				(font
@@ -23531,7 +23099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "EXB-2HV103JV"
+		(property "Mfr. Part #" "EXB-2HV103JV"
 			(at 156.21 29.21 90)
 			(effects
 				(font
@@ -23551,78 +23119,6 @@
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EXB-2HV103JV/285331"
 			(at 156.21 29.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 156.21 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 156.21 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 156.21 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 156.21 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 156.21 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 156.21 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 156.21 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
-			(at 156.21 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23751,7 +23247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "DRV8871DDARQ1"
+		(property "Mfr. Part #" "DRV8871DDARQ1"
 			(at 138.43 72.39 0)
 			(effects
 				(font
@@ -23770,78 +23266,6 @@
 			)
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/texas-instruments/DRV8871DDARQ1/7244177?s=N4IgTCBcDaICICUBqAOFB2AjHOBBBAipiALoC%2BQA"
-			(at 138.43 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 138.43 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 138.43 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 138.43 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 138.43 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 138.43 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 138.43 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 138.43 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
 			(at 138.43 72.39 0)
 			(effects
 				(font
@@ -25243,8 +24667,8 @@
 				(hide yes)
 			)
 		)
-		(property "Price " ""
-			(at 168.91 135.89 90)
+		(property "Price" " $0.553"
+			(at 168.91 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25254,15 +24678,6 @@
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/kemet/C0805C103K5TACAUTO/13546794"
 			(at 168.91 135.89 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" " $0.553"
-			(at 168.91 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25413,7 +24828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "WSLP0805R1000FEA"
+		(property "Mfr. Part #" "WSLP0805R1000FEA"
 			(at 152.4 114.3 90)
 			(effects
 				(font
@@ -25433,78 +24848,6 @@
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/vishay-dale/WSLP0805R1000FEA/9755303"
 			(at 152.4 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 152.4 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 152.4 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 152.4 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 152.4 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 152.4 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 152.4 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 152.4 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
-			(at 152.4 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26044,7 +25387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "MR30PW-M"
+		(property "Mfr. Part #" "MR30PW-M"
 			(at 229.87 158.75 0)
 			(effects
 				(font
@@ -26063,78 +25406,6 @@
 			)
 		)
 		(property "Order Link" "https://www.tme.com/us/en-us/details/mr30pw-m/dc-power-connectors/amass/"
-			(at 229.87 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 229.87 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 229.87 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 229.87 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 229.87 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 229.87 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 229.87 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 229.87 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
 			(at 229.87 158.75 0)
 			(effects
 				(font
@@ -26286,24 +25557,6 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "$0.85"
-			(at 194.31 129.54 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Link" "https://www.digikey.com/en/products/detail/kemet/C0805C474J9RACTU/2212881?s=N4IgTCBcDaIMIAYAcCCscAsB2DApAnAEoCCcAKgKogC6AvkA"
-			(at 194.31 129.54 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mfr. " "KEMET"
 			(at 194.31 129.54 90)
 			(effects
@@ -26322,8 +25575,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part #" ""
-			(at 194.31 129.54 0)
+		(property "Price" "$0.85"
+			(at 194.31 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26331,62 +25584,8 @@
 				(hide yes)
 			)
 		)
-		(property "PROD_ID" ""
-			(at 194.31 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 194.31 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 194.31 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 194.31 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 194.31 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 194.31 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
-			(at 194.31 129.54 0)
+		(property "Order Link" "https://www.digikey.com/en/products/detail/kemet/C0805C474J9RACTU/2212881?s=N4IgTCBcDaIMIAYAcCCscAsB2DApAnAEoCCcAKgKogC6AvkA"
+			(at 194.31 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26794,7 +25993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "INA3221AQRGVRQ1"
+		(property "Mfr. Part #" "INA3221AQRGVRQ1"
 			(at 135.89 36.83 0)
 			(effects
 				(font
@@ -26813,78 +26012,6 @@
 			)
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/texas-instruments/INA3221AQRGVRQ1/5995432"
-			(at 135.89 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 135.89 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 135.89 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 135.89 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 135.89 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 135.89 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 135.89 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 135.89 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
 			(at 135.89 36.83 0)
 			(effects
 				(font
@@ -27326,7 +26453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "B04B-PASK-1"
+		(property "Mfr. Part #" "B04B-PASK-1"
 			(at 140.97 105.41 0)
 			(effects
 				(font
@@ -27347,118 +26474,6 @@
 			)
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B04B-PASK-1/926740"
-			(at 140.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\n                        \n                            Connector Header Through Hole 4 position 0.079 (2.00mm)\n                        \n"
-			(at 140.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/B04B-PASK-1/JST+Sales+America+Inc./view-part/?ref=eda"
-			(at 140.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B04B-PASK-1/JST+Sales+America+Inc./view-part/?ref=snap"
-			(at 140.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 140.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 140.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 140.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 140.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 140.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 140.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 140.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 140.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
 			(at 140.97 105.41 0)
 			(effects
 				(font
@@ -27957,7 +26972,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "CHP0805AFX-1001ELF"
+		(property "Mfr. Part #" "CHP0805AFX-1001ELF"
 			(at 257.81 144.78 0)
 			(effects
 				(font
@@ -27976,78 +26991,6 @@
 			)
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/bourns-inc/CHP0805AFX-1001ELF/12144379?s=N4IgjCBcoExaBjKAzAhgGwM4FMA0IB7KAbRBgA4A2cuAXXwAcAXKEAZSYCcBLAOwHMQAX3wBWeCCSQ0WPIRIgALKICcAdkUAGEPRDNWHHgOH4wlCVJk58RSKQDMK%2BzBU7GLSOy59BI8CvJXaEkUDGt5OxBtWj8YTXJxYMswuVtSMAACAGsAeQALAFtMNz0PEABVXm4mHOQAWWxUTABXTmwTEABacySoLmbUhTo-TvsLPs4BmwUwaJG4Xsh%2BwcjxGNiFTAKAEwy2zG5MJgJOHSEgA"
-			(at 257.81 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 257.81 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 257.81 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 257.81 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 257.81 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 257.81 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 257.81 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 257.81 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
 			(at 257.81 144.78 0)
 			(effects
 				(font
@@ -28233,16 +27176,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "$0.00"
-			(at 238.76 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order Link" "https://www.amazon.com/Straight-Breakaway-Connector-Breadboard-Electronic/dp/B09MYBRW3F?crid=3JR0BZNCU8K8J&dib=eyJ2IjoiMSJ9.3vFjmsH10W3-0I49M7i2SLer6N2w76n3suAL41lNyWbCktqeX2xUwJKGOw1Unq-mAp24IQL2WQ-Ev7Umi65YUYWwukLOeoqjLE4MCKmsExRo7y7O8beFGF-NY-mrllV9VKK4tI6JlMWT6oqZ_rCOCrXUoStfaWefHyDqNKRyilyns3IozKEM_18D3NupDy3bF_TYgvEPFbIX5EQWrNKwcTDbRlgYyJ1qEApCaPAYdds.HCWtlvjyp8dekPH4j2M5xTF1mJrDF1h5rp-JmzUzVHE&dib_tag=se&keywords=male%2Bpin%2Bheaders&qid=1735364673&sprefix=male%2Bpin%2Bheaders%2Caps%2C130&sr=8-8&th=1"
+		(property "Mfr." ""
 			(at 238.76 124.46 0)
 			(effects
 				(font
@@ -28260,7 +27194,7 @@
 				(hide yes)
 			)
 		)
-		(property "PROD_ID" ""
+		(property "Price" "$0.00"
 			(at 238.76 124.46 0)
 			(effects
 				(font
@@ -28269,52 +27203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 238.76 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 238.76 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 238.76 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 238.76 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 238.76 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
+		(property "Order Link" "https://www.amazon.com/Straight-Breakaway-Connector-Breadboard-Electronic/dp/B09MYBRW3F?crid=3JR0BZNCU8K8J&dib=eyJ2IjoiMSJ9.3vFjmsH10W3-0I49M7i2SLer6N2w76n3suAL41lNyWbCktqeX2xUwJKGOw1Unq-mAp24IQL2WQ-Ev7Umi65YUYWwukLOeoqjLE4MCKmsExRo7y7O8beFGF-NY-mrllV9VKK4tI6JlMWT6oqZ_rCOCrXUoStfaWefHyDqNKRyilyns3IozKEM_18D3NupDy3bF_TYgvEPFbIX5EQWrNKwcTDbRlgYyJ1qEApCaPAYdds.HCWtlvjyp8dekPH4j2M5xTF1mJrDF1h5rp-JmzUzVHE&dib_tag=se&keywords=male%2Bpin%2Bheaders&qid=1735364673&sprefix=male%2Bpin%2Bheaders%2Caps%2C130&sr=8-8&th=1"
 			(at 238.76 124.46 0)
 			(effects
 				(font
@@ -29268,7 +28157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "BM02B-GHS-TBT(LF)(SN)"
+		(property "Mfr. Part #" "BM02B-GHS-TBT(LF)(SN)"
 			(at 233.68 97.79 0)
 			(effects
 				(font
@@ -29278,7 +28167,7 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "4.05 mm"
+		(property "Price" "$0.33"
 			(at 233.68 97.79 0)
 			(effects
 				(font
@@ -29288,170 +28177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "None"
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/BM02B-GHS-TBT(LF)(SN)/JST/view-part/?ref=eda"
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "NA"
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BM02B-GHS-TBT(LF)(SN)/JST/view-part/?ref=snap"
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4833827&manufacturer=JST Corporation&part_name=BM02B-GHS-TBT(LF)(SN)&search_term=bm02b"
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nConnector Header Surface Mount 2 position 0.049 (1.25mm)\n"
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "JST Sales"
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
+		(property "Order Link" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM02B-GHS-TBT/807800"
 			(at 233.68 97.79 0)
 			(effects
 				(font
@@ -29700,6 +28426,24 @@
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 238.76 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." ""
+			(at 238.76 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr. Part #" ""
+			(at 238.76 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30249,7 +28993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "CMP0805AFX-1004ELF"
+		(property "Mfr. Part #" "CMP0805AFX-1004ELF"
 			(at 151.13 87.63 90)
 			(effects
 				(font
@@ -30269,78 +29013,6 @@
 		)
 		(property "Order Link" "https://www.digikey.com/en/products/detail/bourns-inc/CMP0805AFX-1004ELF/12333611"
 			(at 151.13 87.63 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr. Part #" ""
-			(at 151.13 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" ""
-			(at 151.13 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 151.13 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 151.13 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 151.13 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 151.13 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 151.13 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REFERENCE" ""
-			(at 151.13 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
