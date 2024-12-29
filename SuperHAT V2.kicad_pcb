@@ -1307,7 +1307,7 @@
 		(uuid "0dfc6276-9756-4575-8e66-648d06300c88")
 		(at 146.99 96.444 -90)
 		(property "Reference" "C1"
-			(at 2.54 0 360)
+			(at 2.54 0 0)
 			(layer "F.SilkS")
 			(uuid "3cd940d8-3799-4e7a-bd95-2ba4f5f00c74")
 			(effects
@@ -1536,7 +1536,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 0 7.41 360)
+			(at 0 7.41 0)
 			(layer "F.Fab")
 			(uuid "52f78def-5a95-4cb6-a365-344d7bf3c3a0")
 			(effects
@@ -3010,7 +3010,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 5.585 2.135 360)
+			(at 5.585 2.135 0)
 			(layer "F.Fab")
 			(uuid "48f381b5-f0ca-44c8-8ef7-fce90adeb520")
 			(effects
@@ -3021,7 +3021,7 @@
 			)
 		)
 		(property "Footprint" "Standard Diode:SOD2613X115N"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7732973e-2be3-4963-a3b5-0fa2fdbc898b")
@@ -3033,7 +3033,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/85730/gsd2004w.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b15c65dc-e7bc-48ec-9dbf-33cc09012fd1")
@@ -3045,7 +3045,7 @@
 			)
 		)
 		(property "Description" "Standard Diode SOD-323"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "13dfe346-941d-47a3-9db5-07b5c274421d")
@@ -4577,7 +4577,7 @@
 			)
 		)
 		(property "Footprint" "AOSS32136C:SOT23_AOS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e6bf3837-efce-4988-a587-18e053635b0a")
@@ -4589,7 +4589,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.aosmd.com/res/datasheets/AOSS32136C.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "891f2b99-4ba5-47be-b79c-52ca22e519d0")
@@ -4601,7 +4601,7 @@
 			)
 		)
 		(property "Description" "MOSFET N-CH 20V 6.5A SOT23-3"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f1eecb00-3ee4-4585-aa93-74c0466681e7")
@@ -5437,7 +5437,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 0 1.5936 360)
+			(at 0 1.5936 0)
 			(layer "F.Fab")
 			(uuid "8dcc34a9-f6e4-4fc1-9b37-489ec7cc568e")
 			(effects
@@ -5448,7 +5448,7 @@
 			)
 		)
 		(property "Footprint" "0805 Green LED:WL-SMCW_0805"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "859d6481-18e1-41ae-beb1-9ceea147316a")
@@ -5460,7 +5460,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150080GS75000.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "422a7807-fb28-4812-9c71-0ad16beb5da2")
@@ -5472,7 +5472,7 @@
 			)
 		)
 		(property "Description" "0805, Green Typ.(@20mA): 520nm, 450mcd, 3.2V, 140° InGaN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "db6a87d2-7b3f-4452-b7ce-5c377ec68433")
@@ -5672,7 +5672,7 @@
 			(uuid "e3fb1770-aedd-4435-8fd2-5cd9d81695ca")
 		)
 		(fp_text user "+"
-			(at 2.25 0 360)
+			(at 2.25 0 0)
 			(layer "F.SilkS")
 			(uuid "001d4698-d569-4eae-b70e-1e595f32fc91")
 			(effects
@@ -5684,7 +5684,7 @@
 			)
 		)
 		(fp_text user "+"
-			(at 1.9 0.3 360)
+			(at 1.9 0.3 0)
 			(layer "F.Fab")
 			(uuid "a8dedeb4-e856-48b5-b80b-820245ea0584")
 			(effects
@@ -6607,7 +6607,7 @@
 			)
 		)
 		(property "Footprint" "AOSS32136C:SOT23_AOS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1f2152c5-8c5f-4ca4-ac95-b8508c548faf")
@@ -6619,7 +6619,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.aosmd.com/res/datasheets/AOSS32136C.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e36ef6b2-3db8-46d3-a08b-ccf680bd816a")
@@ -6631,7 +6631,7 @@
 			)
 		)
 		(property "Description" "MOSFET N-CH 20V 6.5A SOT23-3"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6f76e2b2-340b-435e-9d0b-6e82397af915")
@@ -7324,7 +7324,7 @@
 			)
 		)
 		(property "Value" "B03B-PASK-1"
-			(at -1.5 3 360)
+			(at -1.5 3 0)
 			(layer "F.Fab")
 			(uuid "076e13c2-a66e-4db3-84e3-0648ae81b755")
 			(effects
@@ -7335,7 +7335,7 @@
 			)
 		)
 		(property "Footprint" "3 Pin JST-PA Vertical:B03B-PASK-1"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "de4d10a5-e5a6-40f9-9cea-c6064bce0d60")
@@ -7347,7 +7347,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePA-F.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4b08af6f-5d59-47ae-85a1-a8f635c7c133")
@@ -7359,7 +7359,7 @@
 			)
 		)
 		(property "Description" "JST-PA 3-PIN Vertical Through Hole Connector"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cf123e61-d3fb-4200-b90d-6124653ebf72")
@@ -7584,7 +7584,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 0 1.5936 360)
+			(at 0 1.5936 0)
 			(layer "F.Fab")
 			(uuid "4124e93a-4e00-4954-96fe-124c479f9a23")
 			(effects
@@ -7595,7 +7595,7 @@
 			)
 		)
 		(property "Footprint" "0805 Green LED:WL-SMCW_0805"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b4c7a0fa-a0d8-443b-9fa4-ca25b7613a33")
@@ -7607,7 +7607,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150080GS75000.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a4e82630-232b-4f85-8df7-aac8bfe66d26")
@@ -7619,7 +7619,7 @@
 			)
 		)
 		(property "Description" "0805, Green Typ.(@20mA): 520nm, 450mcd, 3.2V, 140° InGaN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7cecec80-b5a6-4197-a669-4c1aa9cdf741")
@@ -7819,7 +7819,7 @@
 			(uuid "8f9344dc-4250-4db5-864c-45d261841918")
 		)
 		(fp_text user "+"
-			(at 2.25 0 360)
+			(at 2.25 0 0)
 			(layer "F.SilkS")
 			(uuid "3476c934-fbf4-4510-ab15-46a6caae3697")
 			(effects
@@ -7831,7 +7831,7 @@
 			)
 		)
 		(fp_text user "+"
-			(at 1.9 0.3 360)
+			(at 1.9 0.3 0)
 			(layer "F.Fab")
 			(uuid "63e27db0-f382-4895-a317-b96f205ad28d")
 			(effects
@@ -11127,7 +11127,7 @@
 			)
 		)
 		(property "Value" "0.1 uF"
-			(at 1.56 1.3 360)
+			(at 1.56 1.3 0)
 			(layer "F.Fab")
 			(uuid "a0fbe553-b8b3-487a-b3c8-291935c55be1")
 			(effects
@@ -11138,7 +11138,7 @@
 			)
 		)
 		(property "Footprint" "0805 Ceramic Capacitor:CAPC2012X140N"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "afda25bd-835e-480d-ad4c-7f05f8260ea2")
@@ -11150,7 +11150,7 @@
 			)
 		)
 		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1023_X7R_AUTO_SMD.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f4b3ff1f-a284-478c-b0dd-27c7c0c329e9")
@@ -11162,7 +11162,7 @@
 			)
 		)
 		(property "Description" "Ceramic Capacitor 0.1uF ±5% 50V X7R 0805"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "132ca497-4808-47a6-9abb-c3216d234acc")
@@ -12359,7 +12359,7 @@
 			)
 		)
 		(property "Value" "0.1 uF"
-			(at 1.56 1.3 360)
+			(at 1.56 1.3 0)
 			(layer "F.Fab")
 			(uuid "13e2b941-66b0-4c3c-925b-f09965e219d2")
 			(effects
@@ -12370,7 +12370,7 @@
 			)
 		)
 		(property "Footprint" "0805 Ceramic Capacitor:CAPC2012X140N"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f6cc34d7-fb01-46f0-8cda-ab01088deab6")
@@ -12382,7 +12382,7 @@
 			)
 		)
 		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1023_X7R_AUTO_SMD.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "83c3885b-d29f-479d-82fc-8bcf4dd0f3c6")
@@ -12394,7 +12394,7 @@
 			)
 		)
 		(property "Description" "Ceramic Capacitor 0.1uF ±5% 50V X7R 0805"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e93c9164-6086-4095-a84a-f3924e240b95")
@@ -13802,7 +13802,7 @@
 			)
 		)
 		(property "Value" "B03B-PASK-1"
-			(at -1.5 3 360)
+			(at -1.5 3 0)
 			(layer "F.Fab")
 			(uuid "6a507dba-e39b-4a57-b6c2-ceaae0400cde")
 			(effects
@@ -13813,7 +13813,7 @@
 			)
 		)
 		(property "Footprint" "3 Pin JST-PA Vertical:B03B-PASK-1"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a1a69375-6618-4566-b6b6-b14f1cbcddd2")
@@ -13825,7 +13825,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePA-F.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c68a7264-7e0d-4175-9fa7-1d8c1f05ce18")
@@ -13837,7 +13837,7 @@
 			)
 		)
 		(property "Description" "JST-PA 3-PIN Vertical Through Hole Connector"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "caf96173-03ab-4884-8760-de008c58d2a9")
@@ -14061,7 +14061,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 5.585 2.135 360)
+			(at 5.585 2.135 0)
 			(layer "F.Fab")
 			(uuid "9e254af4-17b8-458d-b808-36a9e6a15227")
 			(effects
@@ -14072,7 +14072,7 @@
 			)
 		)
 		(property "Footprint" "Standard Diode:SOD2613X115N"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "36675e65-d505-4375-8dca-d211ab34269f")
@@ -14084,7 +14084,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/85730/gsd2004w.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "085af90a-724d-4192-af43-c0a05ef94c22")
@@ -14096,7 +14096,7 @@
 			)
 		)
 		(property "Description" "Standard Diode SOD-323"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b8791579-5918-470f-89a2-55f96a620d1f")
@@ -14669,7 +14669,7 @@
 		(uuid "8678c52b-8ccf-4c45-8884-572fef81d6fb")
 		(at 123.5 66.8625 180)
 		(property "Reference" "D3"
-			(at 0 -1.3875 360)
+			(at 0 -1.3875 0)
 			(layer "F.SilkS")
 			(uuid "8e66e505-d4bb-4717-9c22-711aec98d95d")
 			(effects
@@ -14680,7 +14680,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 5.585 2.135 360)
+			(at 5.585 2.135 0)
 			(layer "F.Fab")
 			(uuid "206627ea-28a6-4618-891f-4b5e1a44d01a")
 			(effects
@@ -14691,7 +14691,7 @@
 			)
 		)
 		(property "Footprint" "Standard Diode:SOD2613X115N"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2dd86a66-0c5b-4647-bcd5-50fdc9f79d0f")
@@ -14703,7 +14703,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/85730/gsd2004w.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4f94072a-3b21-45a7-bcd1-f4f13567d045")
@@ -14715,7 +14715,7 @@
 			)
 		)
 		(property "Description" "Standard Diode SOD-323"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1eeee871-1e17-457e-bf20-a9da5da9a47d")
@@ -15879,7 +15879,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 5.585 2.135 360)
+			(at 5.585 2.135 0)
 			(layer "F.Fab")
 			(uuid "9c3d8d63-8521-4579-8d95-19761434477f")
 			(effects
@@ -15890,7 +15890,7 @@
 			)
 		)
 		(property "Footprint" "Standard Diode:SOD2613X115N"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "867deaa2-4ff1-4f03-9f04-6557718ff698")
@@ -15902,7 +15902,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/85730/gsd2004w.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "95c54d67-c40d-454b-ab79-69e35e9715a2")
@@ -15914,7 +15914,7 @@
 			)
 		)
 		(property "Description" "Standard Diode SOD-323"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e1bfd109-e311-428f-8072-2b27d5dc9593")
@@ -17954,7 +17954,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 0 1.5936 360)
+			(at 0 1.5936 0)
 			(layer "F.Fab")
 			(uuid "43a42313-af61-4e86-9d5a-0403f6c4bdc7")
 			(effects
@@ -17965,7 +17965,7 @@
 			)
 		)
 		(property "Footprint" "0805 Green LED:WL-SMCW_0805"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d6a9d0cd-1291-4c93-a848-695f9b3f4a10")
@@ -17977,7 +17977,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150080GS75000.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "49060873-8fb5-424e-a665-3a8305d1eab4")
@@ -17989,7 +17989,7 @@
 			)
 		)
 		(property "Description" "0805, Green Typ.(@20mA): 520nm, 450mcd, 3.2V, 140° InGaN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1079281c-f0ec-42d8-a33e-22a8c63ab563")
@@ -18189,7 +18189,7 @@
 			(uuid "1a59f709-2c9f-46d0-86bc-c9f21f822b91")
 		)
 		(fp_text user "+"
-			(at 2.25 0 360)
+			(at 2.25 0 0)
 			(layer "F.SilkS")
 			(uuid "26ff6b73-019a-4c9a-bd43-061a2cce2ba4")
 			(effects
@@ -18201,7 +18201,7 @@
 			)
 		)
 		(fp_text user "+"
-			(at 1.9 0.3 360)
+			(at 1.9 0.3 0)
 			(layer "F.Fab")
 			(uuid "bc6f69dc-4362-47f5-941f-a876338945a0")
 			(effects
@@ -18599,7 +18599,7 @@
 			)
 		)
 		(property "Footprint" "WSLP 0805 Resistor:RES_VISHAY_WSLP0805_VIS"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5c151a79-e58a-4408-9e82-a0bed45ccb9b")
@@ -18611,7 +18611,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/30122/wslp.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0693494f-d811-4a96-9ed0-a6230c766f3a")
@@ -18623,7 +18623,7 @@
 			)
 		)
 		(property "Description" "RES 0.1 OHM 1% 1/2W 0805"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8b7388ef-6be1-4d6e-97b4-aec95121dbaa")
@@ -23655,7 +23655,7 @@
 		(pad "1" smd rect
 			(at 1.25 0)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 94 "+3V3P")
 			(pinfunction "Pin_1")
 			(pintype "passive")
@@ -23664,7 +23664,7 @@
 		(pad "2" smd rect
 			(at -3.79 0)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 26 "+5V")
 			(pinfunction "Pin_2")
 			(pintype "passive")
@@ -23695,7 +23695,7 @@
 		(pad "3" smd rect
 			(at 1.25 -2.54)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 1 "/GPIO2{slash}SDA1")
 			(pinfunction "Pin_3")
 			(pintype "passive")
@@ -23704,7 +23704,7 @@
 		(pad "4" smd rect
 			(at -3.79 -2.54)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 26 "+5V")
 			(pinfunction "Pin_4")
 			(pintype "passive")
@@ -23735,7 +23735,7 @@
 		(pad "5" smd rect
 			(at 1.25 -5.08)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 2 "/GPIO3{slash}SCL1")
 			(pinfunction "Pin_5")
 			(pintype "passive")
@@ -23744,7 +23744,7 @@
 		(pad "6" smd rect
 			(at -3.79 -5.08)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 25 "GND")
 			(pinfunction "Pin_6")
 			(pintype "passive")
@@ -23775,7 +23775,7 @@
 		(pad "7" smd rect
 			(at 1.25 -7.62)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 3 "/GPIO4{slash}GPCLK0")
 			(pinfunction "Pin_7")
 			(pintype "passive")
@@ -23784,7 +23784,7 @@
 		(pad "8" smd rect
 			(at -3.79 -7.62)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 72 "GPIO14{slash}TXD0")
 			(pinfunction "Pin_8")
 			(pintype "passive")
@@ -23815,7 +23815,7 @@
 		(pad "9" smd rect
 			(at 1.25 -10.16)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 25 "GND")
 			(pinfunction "Pin_9")
 			(pintype "passive")
@@ -23824,7 +23824,7 @@
 		(pad "10" smd rect
 			(at -3.79 -10.16)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 74 "GPIO15{slash}RXD0")
 			(pinfunction "Pin_10")
 			(pintype "passive")
@@ -23855,7 +23855,7 @@
 		(pad "11" smd rect
 			(at 1.25 -12.7)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 91 "/GPIO17")
 			(pinfunction "Pin_11")
 			(pintype "passive")
@@ -23864,7 +23864,7 @@
 		(pad "12" smd rect
 			(at -3.79 -12.7)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 4 "/GPIO18{slash}PCM.CLK")
 			(pinfunction "Pin_12")
 			(pintype "passive")
@@ -23895,7 +23895,7 @@
 		(pad "13" smd rect
 			(at 1.25 -15.24)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 20 "/GPIO27")
 			(pinfunction "Pin_13")
 			(pintype "passive")
@@ -23904,7 +23904,7 @@
 		(pad "14" smd rect
 			(at -3.79 -15.24)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 25 "GND")
 			(pinfunction "Pin_14")
 			(pintype "passive")
@@ -23935,7 +23935,7 @@
 		(pad "15" smd rect
 			(at 1.25 -17.78)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 24 "/GPIO22")
 			(pinfunction "Pin_15")
 			(pintype "passive")
@@ -23944,7 +23944,7 @@
 		(pad "16" smd rect
 			(at -3.79 -17.78)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 5 "/GPIO23")
 			(pinfunction "Pin_16")
 			(pintype "passive")
@@ -23975,7 +23975,7 @@
 		(pad "17" smd rect
 			(at 1.25 -20.32)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 94 "+3V3P")
 			(pinfunction "Pin_17")
 			(pintype "passive")
@@ -23984,7 +23984,7 @@
 		(pad "18" smd rect
 			(at -3.79 -20.32)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 6 "/GPIO24")
 			(pinfunction "Pin_18")
 			(pintype "passive")
@@ -24015,7 +24015,7 @@
 		(pad "19" smd rect
 			(at 1.25 -22.86)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 7 "/GPIO10{slash}SPI0.MOSI")
 			(pinfunction "Pin_19")
 			(pintype "passive")
@@ -24024,7 +24024,7 @@
 		(pad "20" smd rect
 			(at -3.79 -22.86)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 25 "GND")
 			(pinfunction "Pin_20")
 			(pintype "passive")
@@ -24055,7 +24055,7 @@
 		(pad "21" smd rect
 			(at 1.25 -25.4)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 8 "/GPIO9{slash}SPI0.MISO")
 			(pinfunction "Pin_21")
 			(pintype "passive")
@@ -24064,7 +24064,7 @@
 		(pad "22" smd rect
 			(at -3.79 -25.4)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 71 "/GPIO25")
 			(pinfunction "Pin_22")
 			(pintype "passive")
@@ -24095,7 +24095,7 @@
 		(pad "23" smd rect
 			(at 1.25 -27.94)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 9 "/GPIO11{slash}SPI0.SCLK")
 			(pinfunction "Pin_23")
 			(pintype "passive")
@@ -24104,7 +24104,7 @@
 		(pad "24" smd rect
 			(at -3.79 -27.94)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 10 "/GPIO8{slash}SPI0.CE0")
 			(pinfunction "Pin_24")
 			(pintype "passive")
@@ -24135,7 +24135,7 @@
 		(pad "25" smd rect
 			(at 1.25 -30.48)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 25 "GND")
 			(pinfunction "Pin_25")
 			(pintype "passive")
@@ -24144,7 +24144,7 @@
 		(pad "26" smd rect
 			(at -3.79 -30.48)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 11 "/GPIO7{slash}SPI0.CE1")
 			(pinfunction "Pin_26")
 			(pintype "passive")
@@ -24175,7 +24175,7 @@
 		(pad "27" smd rect
 			(at 1.25 -33.02)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 12 "/ID_SDA")
 			(pinfunction "Pin_27")
 			(pintype "passive")
@@ -24184,7 +24184,7 @@
 		(pad "28" smd rect
 			(at -3.79 -33.02)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 13 "/ID_SCL")
 			(pinfunction "Pin_28")
 			(pintype "passive")
@@ -24215,7 +24215,7 @@
 		(pad "29" smd rect
 			(at 1.25 -35.56)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 73 "/GPIO5")
 			(pinfunction "Pin_29")
 			(pintype "passive")
@@ -24224,7 +24224,7 @@
 		(pad "30" smd rect
 			(at -3.79 -35.56)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 25 "GND")
 			(pinfunction "Pin_30")
 			(pintype "passive")
@@ -24255,7 +24255,7 @@
 		(pad "31" smd rect
 			(at 1.25 -38.1)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 22 "GPIO6")
 			(pinfunction "Pin_31")
 			(pintype "passive")
@@ -24264,7 +24264,7 @@
 		(pad "32" smd rect
 			(at -3.79 -38.1)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 18 "GPIO12{slash}PWM0")
 			(pinfunction "Pin_32")
 			(pintype "passive")
@@ -24295,7 +24295,7 @@
 		(pad "33" smd rect
 			(at 1.25 -40.64)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 14 "GPIO13{slash}PWM1")
 			(pinfunction "Pin_33")
 			(pintype "passive")
@@ -24304,7 +24304,7 @@
 		(pad "34" smd rect
 			(at -3.79 -40.64)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 25 "GND")
 			(pinfunction "Pin_34")
 			(pintype "passive")
@@ -24335,7 +24335,7 @@
 		(pad "35" smd rect
 			(at 1.25 -43.18)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 15 "/GPIO19{slash}PCM.FS")
 			(pinfunction "Pin_35")
 			(pintype "passive")
@@ -24344,7 +24344,7 @@
 		(pad "36" smd rect
 			(at -3.79 -43.18)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 23 "GPIO16")
 			(pinfunction "Pin_36")
 			(pintype "passive")
@@ -24375,7 +24375,7 @@
 		(pad "37" smd rect
 			(at 1.25 -45.72)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 21 "/GPIO26")
 			(pinfunction "Pin_37")
 			(pintype "passive")
@@ -24384,7 +24384,7 @@
 		(pad "38" smd rect
 			(at -3.79 -45.72)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 31 "/GPIO20{slash}PCM.DIN")
 			(pinfunction "Pin_38")
 			(pintype "passive")
@@ -24415,7 +24415,7 @@
 		(pad "39" smd rect
 			(at 1.25 -48.26)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 25 "GND")
 			(pinfunction "Pin_39")
 			(pintype "passive")
@@ -24424,7 +24424,7 @@
 		(pad "40" smd rect
 			(at -3.79 -48.26)
 			(size 1.5 2.5)
-			(layers "B.Cu" "B.Mask")
+			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 30 "/GPIO21{slash}PCM.DOUT")
 			(pinfunction "Pin_40")
 			(pintype "passive")
