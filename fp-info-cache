@@ -1,4 +1,4 @@
-24194355639301977
+24209980509239643
 2x20 RPI Headers
 2x20_Shrouded
 
@@ -27,6 +27,13 @@ Header 4 pin, top entry type, 2mm pitch.
 0
 4
 4
+9V Battery Holder
+9V Battery Holder
+
+
+0
+2
+2
 10k Potentiometer
 POT_TC33_3X3P8_BRN
 
@@ -55,6 +62,13 @@ EXB-2HV103JV
 0
 16
 16
+20 mm Coin Cell Holder
+20 mm Coin Cell Holder
+
+
+0
+3
+3
 47 uF Tantalum Capacitor
 CAPMP7.6X4.3_3.1N_KEM
 
@@ -157,6 +171,34 @@ CHP0805AFX-2200ELF
 RES_CHP0805_BRN-M
 
 CHP0805AFX-2200ELF 
+0
+2
+2
+3030 White LED
+LED_JB3030AWT_3X3_CRE
+
+JB3030AWT-P-H65EA0000-N0000001 
+0
+2
+2
+3030 White LED
+LED_JB3030AWT_3X3_CRE-L
+
+JB3030AWT-P-H65EA0000-N0000001 
+0
+2
+2
+3030 White LED
+LED_JB3030AWT_3X3_CRE-M
+
+JB3030AWT-P-H65EA0000-N0000001 
+0
+2
+2
+3528 LED
+3528 LED
+
+
 0
 2
 2
@@ -65001,6 +65043,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MINI Fuse Holder Blade
+3588_KEY
+
+3588 
+0
+4
+4
 MR30PW-M
 MR30PW-M
 
@@ -65008,6 +65057,13 @@ MR30PW-M
 0
 5
 5
+Micro Push Button Switch
+Micro Push Button Switch
+
+
+0
+2
+2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -84930,6 +84986,13 @@ RES_ERJUP6F1002V
 0
 2
 2
+Pi
+Pi
+
+
+0
+0
+0
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
