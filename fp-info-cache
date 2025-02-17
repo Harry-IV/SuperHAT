@@ -1,4 +1,25 @@
-24209980509239643
+24236072098810910
+2 RES 10k Array
+SMT_1002P1AT_VIS
+
+ACASN1002S1002P1AT 
+0
+4
+4
+2 RES 10k Array
+SMT_1002P1AT_VIS-L
+
+ACASN1002S1002P1AT 
+0
+4
+4
+2 RES 10k Array
+SMT_1002P1AT_VIS-M
+
+ACASN1002S1002P1AT 
+0
+4
+4
 2x20 RPI Headers
 2x20_Shrouded
 
@@ -27,6 +48,27 @@ Header 4 pin, top entry type, 2mm pitch.
 0
 4
 4
+4 RES 10k Array
+EXB38V_PAN
+
+EXB-38V103JV 
+0
+8
+8
+4 RES 10k Array
+EXB38V_PAN-L
+
+EXB-38V103JV 
+0
+8
+8
+4 RES 10k Array
+EXB38V_PAN-M
+
+EXB-38V103JV 
+0
+8
+8
 9V Battery Holder
 9V Battery Holder
 
@@ -69,6 +111,27 @@ EXB-2HV103JV
 0
 3
 3
+22 uF Poly Cap
+PCAP_EEHZ_D8_PAN
+
+EEH-ZA1J220XP 
+0
+2
+2
+22 uF Poly Cap
+PCAP_EEHZ_D8_PAN-L
+
+EEH-ZA1J220XP 
+0
+2
+2
+22 uF Poly Cap
+PCAP_EEHZ_D8_PAN-M
+
+EEH-ZA1J220XP 
+0
+2
+2
 47 uF Tantalum Capacitor
 CAPMP7.6X4.3_3.1N_KEM
 
@@ -251,6 +314,13 @@ B02B-PASK-1
 0
 3
 3
+B2B-XH-A
+B2B-XH-A
+
+
+0
+2
+2
 BM02B-GHS-TBT
 BM02B-GHS-TBT
 
@@ -56979,6 +57049,34 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+EEH-ZC1E220R
+CAP_ZC_C_PAN
+
+EEH-ZC1E220R 
+0
+2
+2
+EEH-ZC1E220R
+CAP_ZC_C_PAN-L
+
+EEH-ZC1E220R 
+0
+2
+2
+EEH-ZC1E220R
+CAP_ZC_C_PAN-M
+
+EEH-ZC1E220R 
+0
+2
+2
+Female Right Angle 1x02 Pin Header
+CON2_1X2_TR_SSQ_SAI
+
+SSW-102-02-G-S-RA 
+0
+2
+2
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -89368,6 +89466,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+S2B-XH-A
+CONN_S2B-XH-A_JST
+
+S2B-XH-A 
+0
+2
+2
 SG73S2ATTD3002F
 RESC2012X60N
 
