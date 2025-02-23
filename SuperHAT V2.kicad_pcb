@@ -112,13 +112,13 @@
 		(aux_axis_origin 100 100)
 		(grid_origin 100 100)
 		(pcbplotparams
-			(layerselection 0x000000c_7ffffff8)
+			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes no)
 			(usegerberadvancedattributes no)
-			(creategerberjobfile yes)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12.000000)
 			(dashed_line_gap_ratio 3.000000)
 			(svgprecision 6)
@@ -141,7 +141,7 @@
 			(plotfptext yes)
 			(plotinvisibletext no)
 			(sketchpadsonfab no)
-			(subtractmaskfromsilk no)
+			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
 			(drillshape 0)
@@ -23408,7 +23408,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS259631DDAR"
+		(property "Value" "TPS259621DDAR"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25457,7 +25457,7 @@
 				)
 			)
 		)
-		(property "Value" "2.4k"
+		(property "Value" "2.61k"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25493,7 +25493,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 2.4K OHM 0.1% 0.26W 0805"
+		(property "Description" "RES 2.61K OHM 0.1% 0.26W 0805"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25518,7 +25518,7 @@
 				)
 			)
 		)
-		(property "Part #" "TNPW08052K40BEEA"
+		(property "Part #" "TNPW08052K61BEEN"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25531,7 +25531,7 @@
 				)
 			)
 		)
-		(property "Order Link" "https://www.digikey.com/en/products/detail/vishay-dale/TNPW08052K40BEEA/1607323"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/vishay-dale/TNPW08052K61BEEN/1610534?s=N4IgjCBcoEwAwA4CsVQGMoDMCGAbAzgKYA0IA9lANogwB0AbGAAQDWA8gBYC2%2BIAuqQAOAFyggAqgDsAlsLaYAsoWz4ArgCdCIAL6kAtDFQgMkYetUlyVECj7bdNawBUAcgAUA6oji3tQA"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25544,7 +25544,7 @@
 				)
 			)
 		)
-		(property "Price" "$0.39"
+		(property "Price" "$0.67"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")

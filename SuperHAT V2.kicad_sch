@@ -21849,7 +21849,7 @@
 				)
 			)
 		)
-		(property "Value" "2.4k"
+		(property "Value" "2.61k"
 			(at -73.66 70.866 90)
 			(effects
 				(font
@@ -21875,7 +21875,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 2.4K OHM 0.1% 0.26W 0805"
+		(property "Description" "RES 2.61K OHM 0.1% 0.26W 0805"
 			(at -73.66 64.77 0)
 			(effects
 				(font
@@ -21893,7 +21893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part #" "TNPW08052K40BEEA"
+		(property "Part #" "TNPW08052K61BEEN"
 			(at -73.66 64.77 90)
 			(effects
 				(font
@@ -21902,7 +21902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Order Link" "https://www.digikey.com/en/products/detail/vishay-dale/TNPW08052K40BEEA/1607323"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/vishay-dale/TNPW08052K61BEEN/1610534?s=N4IgjCBcoEwAwA4CsVQGMoDMCGAbAzgKYA0IA9lANogwB0AbGAAQDWA8gBYC2%2BIAuqQAOAFyggAqgDsAlsLaYAsoWz4ArgCdCIAL6kAtDFQgMkYetUlyVECj7bdNawBUAcgAUA6oji3tQA"
 			(at -73.66 64.77 90)
 			(effects
 				(font
@@ -21911,7 +21911,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "$0.39"
+		(property "Price" "$0.67"
 			(at -73.66 64.77 90)
 			(effects
 				(font
@@ -25769,7 +25769,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TPS259631DDAR"
+		(property "Value" "TPS259621DDAR"
 			(at -57.4959 26.67 0)
 			(effects
 				(font
