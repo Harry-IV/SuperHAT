@@ -155,5 +155,3 @@ To test the INA3221, run this code, which uses Adafruit's INA3221 library: [http
 * Copper pours help with thermal dissipation.
 
 ---
-
-Email me at harry.c.ohagin@gmail.com if you have any questions. 
